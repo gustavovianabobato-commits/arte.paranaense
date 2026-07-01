@@ -1,1 +1,20 @@
-
+body{
+    background-color: #48593A;
+    color: white;
+}
+header{
+    background-color:#48593A
+    color: white;
+}
+main{
+    background-color: #48593A;
+    color: white
+}
+section{
+    background-color: #56995A;
+    color:black;
+}
+footer{
+    background-color: #FFF197;
+    color:#325935
+}
