@@ -1,20 +1,21 @@
 body{
     background-color: #48593A;
     color: white;
+    font-family: Arial, sans-serif;
 }
 header{
-    background-color:#48593A
+    background-color:#48593A;
     color: white;
+    text-align: center;
+    padding: 30px;
 }
-main{
-    background-color: #48593A;
-    color: white
+h1 {
+    font-size: 36px;
 }
-section{
-    background-color: #56995A;
-    color:black;
+h2 {
+    color:#48593A;
 }
-footer{
-    background-color: #FFF197;
-    color:#325935
+p {
+    font-size: 18px;
+    line-height: 1.6;
 }
