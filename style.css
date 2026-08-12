@@ -1,20 +1,24 @@
-body{
-    background-color: #48593A;
-    color: white;
+body {
+    background-color: #f4f1ea;
+    color: #222222;
     font-family: Arial, sans-serif;
 }
-header{
-    background-color:#597741;
+
+header {
+    background-color: #43e3ff;
     color: white;
     text-align: center;
     padding: 30px;
 }
+
 h1 {
     font-size: 36px;
 }
+
 h2 {
-    color:#48593A;
+    color: #65e0ff;
 }
+
 p {
     font-size: 18px;
     line-height: 1.6;
