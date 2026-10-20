@@ -1,14 +1,14 @@
 :root{
-    --cor-fundo: rgba(247, 239, 248, 0.2);;
+    --cor-fundo: #fff2b6;;
     --cor-texto: #a2b3;
-    --cor-principal: rgba(182, 113, 113, 0.993);
-    --cor-secundaria: rgba(0, 245, 155, 0.795);
-    --cor-hover: rgba(42, 86, 180, 0.2);
-    --cor-superficie: rgba(236, 58, 4, 0.959);
-    --cor-card: rgba(184, 216, 0, 0.877); 
-    --cor-legenda: #a2b3;
-    --cor-clara: rgba(155, 103, 161, 0.2);
-    --cor-rodape: rgba(34, 75, 187, 0.2);
+    --cor-principal: rgba(194, 142, 0, 0.993);
+    --cor-secundaria: rgb(255, 188, 4);
+    --cor-hover: rgb(243, 218, 108);
+    --cor-superficie: rgba(255, 255, 255, 0.959);
+    --cor-card: rgb(255, 232, 104); 
+    --cor-legenda: rgb(189, 175, 113);
+    --cor-clara: rgb(254, 246, 255);
+    --cor-rodape: rgba(0, 0, 0, 0.2);
     }
 body {
     background-color: var(--cor-fundo);
