@@ -1,14 +1,14 @@
 :root{
-    --cor-fundo: #fff2b6;;
-    --cor-texto: rgb(255, 179, 16);
-    --cor-principal: rgba(128, 44, 44, 0.445);
-    --cor-secundaria: rgb(255, 188, 4);
-    --cor-hover: rgb(243, 218, 108);
-    --cor-superficie: rgba(255, 255, 255, 0.959);
-    --cor-card: rgb(255, 232, 104); 
-    --cor-legenda: rgb(189, 175, 113);
-    --cor-clara: rgba(255, 252, 246, 0.411);
-    --cor-rodape: rgba(0, 0, 0, 0.2);
+    --cor-fundo: #fff8e8;;
+    --cor-texto: #493B2A;
+    --cor-principal: #D99A36;
+    --cor-secundaria: #E8B95B;
+    --cor-hover: #C48627;
+    --cor-superficie: #FFFCF5;
+    --cor-card: #F5E6C8; 
+    --cor-legenda: #9B896B;
+    --cor-clara: #FFFDF8;
+    --cor-rodape: #B8A98C;
     }
 
     .tema-escuro {
